@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/bdd-helloworld/bdd-helloworld.iml" filepath="$PROJECT_DIR$/bdd-helloworld/bdd-helloworld.iml" />
+      <module fileurl="file://$PROJECT_DIR$/coverage/coverage.iml" filepath="$PROJECT_DIR$/coverage/coverage.iml" />
+      <module fileurl="file://$PROJECT_DIR$/showcase-dbunit/showcase-dbunit.iml" filepath="$PROJECT_DIR$/showcase-dbunit/showcase-dbunit.iml" />
+      <module fileurl="file://$PROJECT_DIR$/showcase-hamcrest/showcase-hamcrest.iml" filepath="$PROJECT_DIR$/showcase-hamcrest/showcase-hamcrest.iml" />
+      <module fileurl="file://$PROJECT_DIR$/tdd-darts/tdd-darts.iml" filepath="$PROJECT_DIR$/tdd-darts/tdd-darts.iml" />
+      <module fileurl="file://$PROJECT_DIR$/tdd-fill-the-code-starting-from-test/tdd-fill-the-code-starting-from-test.iml" filepath="$PROJECT_DIR$/tdd-fill-the-code-starting-from-test/tdd-fill-the-code-starting-from-test.iml" />
+      <module fileurl="file://$PROJECT_DIR$/tdd-helloworld/tdd-helloworld.iml" filepath="$PROJECT_DIR$/tdd-helloworld/tdd-helloworld.iml" />
+      <module fileurl="file://$PROJECT_DIR$/integration-jee-arquillan/tdd-j2e-arquillan.iml" filepath="$PROJECT_DIR$/integration-jee-arquillan/tdd-j2e-arquillan.iml" />
+      <module fileurl="file://$PROJECT_DIR$/integration-jee-open-ejb/tdd-j2e-open-ejb.iml" filepath="$PROJECT_DIR$/integration-jee-open-ejb/tdd-j2e-open-ejb.iml" />
+      <module fileurl="file://$PROJECT_DIR$/showcase-mockito/tdd-mockito-showcase.iml" filepath="$PROJECT_DIR$/showcase-mockito/tdd-mockito-showcase.iml" />
+      <module fileurl="file://$PROJECT_DIR$/tdd-mocks/tdd-mocks.iml" filepath="$PROJECT_DIR$/tdd-mocks/tdd-mocks.iml" />
+      <module fileurl="file://$PROJECT_DIR$/tdd-refactoring/tdd-refactoring.iml" filepath="$PROJECT_DIR$/tdd-refactoring/tdd-refactoring.iml" />
+      <module fileurl="file://$PROJECT_DIR$/tdd-refactoring-done/tdd-refactoring-done.iml" filepath="$PROJECT_DIR$/tdd-refactoring-done/tdd-refactoring-done.iml" />
+      <module fileurl="file://$PROJECT_DIR$/showcase-junit/tdd-showcase-junit.iml" filepath="$PROJECT_DIR$/showcase-junit/tdd-showcase-junit.iml" />
+      <module fileurl="file://$PROJECT_DIR$/showcase-main/tdd-showcase-main.iml" filepath="$PROJECT_DIR$/showcase-main/tdd-showcase-main.iml" />
+      <module fileurl="file://$PROJECT_DIR$/showcase-powermock/tdd-showcase-powermock.iml" filepath="$PROJECT_DIR$/showcase-powermock/tdd-showcase-powermock.iml" />
+      <module fileurl="file://$PROJECT_DIR$/integration-web-app/tdd-web-app.iml" filepath="$PROJECT_DIR$/integration-web-app/tdd-web-app.iml" />
+      <module fileurl="file://$PROJECT_DIR$/integration-web-htmlunit/tdd-web-htmlunit.iml" filepath="$PROJECT_DIR$/integration-web-htmlunit/tdd-web-htmlunit.iml" />
+      <module fileurl="file://$PROJECT_DIR$/integration-web-selenium-ide/tdd-web-selenium-ide.iml" filepath="$PROJECT_DIR$/integration-web-selenium-ide/tdd-web-selenium-ide.iml" />
+      <module fileurl="file://$PROJECT_DIR$/integration-web-selenium-webdriver/tdd-web-selenium-webdriver.iml" filepath="$PROJECT_DIR$/integration-web-selenium-webdriver/tdd-web-selenium-webdriver.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/tutorial-java-tdd.iml" filepath="$PROJECT_DIR$/.idea/tutorial-java-tdd.iml" />
+    </modules>
+  </component>
+</project>

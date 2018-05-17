@@ -1,0 +1,55 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="CompilerConfiguration">
+    <annotationProcessing>
+      <profile name="Maven default annotation processors profile" enabled="true">
+        <sourceOutputDir name="target/generated-sources/annotations" />
+        <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
+        <outputRelativeToContentRoot value="true" />
+        <module name="bdd-helloworld" />
+        <module name="coverage" />
+        <module name="showcase-dbunit" />
+        <module name="showcase-hamcrest" />
+        <module name="tdd-darts" />
+        <module name="tdd-fill-the-code-starting-from-test" />
+        <module name="tdd-helloworld" />
+        <module name="tdd-j2e-arquillan" />
+        <module name="tdd-j2e-open-ejb" />
+        <module name="tdd-mockito-showcase" />
+        <module name="tdd-mocks" />
+        <module name="tdd-refactoring" />
+        <module name="tdd-refactoring-done" />
+        <module name="tdd-showcase-junit" />
+        <module name="tdd-showcase-main" />
+        <module name="tdd-showcase-powermock" />
+        <module name="tdd-web-app" />
+        <module name="tdd-web-htmlunit" />
+        <module name="tdd-web-selenium-ide" />
+        <module name="tdd-web-selenium-webdriver" />
+      </profile>
+    </annotationProcessing>
+    <bytecodeTargetLevel>
+      <module name="bdd-helloworld" target="1.7" />
+      <module name="coverage" target="1.7" />
+      <module name="showcase-dbunit" target="1.7" />
+      <module name="showcase-hamcrest" target="1.7" />
+      <module name="tdd-darts" target="1.7" />
+      <module name="tdd-fill-the-code-starting-from-test" target="1.8" />
+      <module name="tdd-helloworld" target="1.7" />
+      <module name="tdd-j2e-arquillan" target="1.7" />
+      <module name="tdd-j2e-open-ejb" target="1.7" />
+      <module name="tdd-mockito-showcase" target="1.7" />
+      <module name="tdd-mocks" target="1.7" />
+      <module name="tdd-refactoring" target="1.7" />
+      <module name="tdd-refactoring-done" target="1.7" />
+      <module name="tdd-showcase-junit" target="1.7" />
+      <module name="tdd-showcase-main" target="1.7" />
+      <module name="tdd-showcase-powermock" target="1.7" />
+      <module name="tdd-web-app" target="1.7" />
+      <module name="tdd-web-htmlunit" target="1.7" />
+      <module name="tdd-web-selenium-ide" target="1.7" />
+      <module name="tdd-web-selenium-webdriver" target="1.7" />
+      <module name="tutorial-java-tdd" target="1.7" />
+    </bytecodeTargetLevel>
+  </component>
+</project>
